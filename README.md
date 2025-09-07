@@ -15,17 +15,14 @@ Feito com **React + Vite + TailwindCSS**.
 
 ## 🚀 Deploy rápido
 
-Clique no botão abaixo para publicar este projeto na **Vercel**:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AlanSilva/MEUHOLERITE-site)
 
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub antes de usar.
+
 
 ---
 
-## 💻 Rodando localmente
-
-Clone o projeto:
+## 💻 Rodando localmnte 
 
 ```bash
 git clone https://github.com/SEU_USUARIO/holerite-site.git
